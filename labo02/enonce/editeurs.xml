@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<logiciels>
+    <editeurs>
+        <editeur nom="Aquamacs">
+            <auteur>David Reitter</auteur>
+            <annee>2005</annee>
+            <dernvers>2.4</dernvers>
+        </editeur>
+        <editeur nom="ed">
+            <auteur>Ken Thompson</auteur>
+            <annee>1970</annee>
+            <dernvers></dernvers>
+        </editeur>
+        <editeur nom="gedit">
+            <auteur>GNU Project</auteur>
+            <annee>2000</annee>
+            <dernvers>3.2.2</dernvers>
+        </editeur>
+        <editeur nom="GNU Emacs">
+            <auteur>Richard Stallman</auteur>
+            <annee>1984</annee>
+            <dernvers>24.3</dernvers>
+        </editeur>
+        <editeur nom="Notepad++">
+            <auteur>Don Ho</auteur>
+            <annee>2003</annee>
+            <dernvers>6.5.3</dernvers>
+        </editeur>
+        <editeur nom="Vim">
+            <auteur>Bram Moolenaar</auteur>
+            <annee>1991</annee>
+            <dernvers>7.4</dernvers>
+        </editeur>
+    </editeurs>
+</logiciels>
